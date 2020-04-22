@@ -1,0 +1,11 @@
+/*Set Font to Something More Interesting */
+
+/*Prevents Links to Works page from being hidden by Navbar*/
+:target:before {
+    display: block;
+    content: "";
+    margin-top: -75px;
+    height: 75px;
+    visibility: hidden;
+    
+}

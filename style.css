@@ -1,4 +1,4 @@
-/*Set Font to Something More Interesting */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Smythe&display=swap');
 
 /*Prevents Links to Works page from being hidden by Navbar*/
 :target:before {
@@ -8,4 +8,13 @@
     height: 75px;
     visibility: hidden;
     
+}
+
+/*Set Font to Something More Interesting */
+h1, h2, h3, h4, h4, h6 {
+    font-family: 'Smythe', cursive; 
+}
+
+p, a {
+    font-family: 'Open Sans', sans-serif;
 }

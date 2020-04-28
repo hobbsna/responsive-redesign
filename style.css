@@ -10,7 +10,54 @@
     
 }
 
-/*Set Font to Something More Interesting */
+/*Background Images*/
+.jumbotron {
+    background-image: url(images/Arrows.jpg);
+    max-height: 100%;
+    max-width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+#wood {
+    background-image: url(images/WoodgrainBackground.jpg);
+    max-height: 100%;
+    max-width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#clouds {
+    background-image: url(images/clouds.jpg);
+    max-height: 100%;
+    max-width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#marble {
+    background-image: url(images/marble.jpg);
+    max-height: 100%;
+    max-width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#canvas {
+    background-image: url(images/canvasLight.jpg);
+    max-height: 100%;
+    max-width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/*Fonts */
 h1, h2, h3, h4, h4, h6 {
     font-family: 'Smythe', cursive; 
 }
@@ -18,3 +65,9 @@ h1, h2, h3, h4, h4, h6 {
 p, a {
     font-family: 'Open Sans', sans-serif;
 }
+
+
+footer {
+    background-color: #f8f9fa;
+}
+

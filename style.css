@@ -31,7 +31,7 @@
 }
 
 #clouds {
-    background-image: url(images/clouds.jpg);
+    background-image: url(images/cloudsOpacity50.jpg);
     max-height: 100%;
     max-width: 100%;
     background-position: center;
@@ -40,7 +40,7 @@
 }
 
 #marble {
-    background-image: url(images/marble.jpg);
+    background-image: url(images/marbleOpacity50.jpg);
     max-height: 100%;
     max-width: 100%;
     background-position: center;
